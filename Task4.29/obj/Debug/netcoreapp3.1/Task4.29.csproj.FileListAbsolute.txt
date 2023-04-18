@@ -1,0 +1,14 @@
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\bin\Debug\netcoreapp3.1\Task4.29.exe
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\bin\Debug\netcoreapp3.1\Task4.29.deps.json
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\bin\Debug\netcoreapp3.1\Task4.29.runtimeconfig.json
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\bin\Debug\netcoreapp3.1\Task4.29.runtimeconfig.dev.json
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\bin\Debug\netcoreapp3.1\Task4.29.dll
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\bin\Debug\netcoreapp3.1\Task4.29.pdb
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\obj\Debug\netcoreapp3.1\Task4.29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\obj\Debug\netcoreapp3.1\Task4.29.AssemblyInfoInputs.cache
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\obj\Debug\netcoreapp3.1\Task4.29.AssemblyInfo.cs
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\obj\Debug\netcoreapp3.1\Task4.29.csproj.CoreCompileInputs.cache
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\obj\Debug\netcoreapp3.1\Task4.29.dll
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\obj\Debug\netcoreapp3.1\Task4.29.pdb
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\obj\Debug\netcoreapp3.1\Task4.29.genruntimeconfig.cache
+C:\Users\andro\source\repos\c#\Task4.29\Task4.29\obj\Debug\netcoreapp3.1\Task4.29.csproj.AssemblyReference.cache
